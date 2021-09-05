@@ -1,17 +1,13 @@
 
 
-## 👋Hello , 😄 I am xmu-xiaoma666 ✨.
+## 👋Hello , 😄 I am Wang Qingyu(王清玉).
 
 
-- **🔭 I’m currently graduate student in MAC Lab of XMU**
-
-- **🌱 I’m currently learning Image Captioning**
-
-- **📫 How to reach me: [mayiwei1998@163.com](mayiwei1998@163.com)**
-
+- **🔭 I’m currently a second-year Ph.D. student in IBE Team of college of biosystems engineering and food science of ZJU**
+- **🌱 My current research interests include: stereo matching, deep learning and agricultural robot**
+- **📫 My Email address: 12013027@zju.edu.cn or 120153710@qq.com or wqy980618@gmail.com**
 - **💬 About me: [知乎](https://www.zhihu.com/people/jason-14-58-38/posts)**
-
-- **💬 公众号: [FightingCV](.)**
+- 💬
 
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
@@ -19,8 +15,8 @@
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=xmu-xiaoma666&theme=nightowl&show_icons=true" />
 </a>
 
-<a href="https://github.com/xmu-xiaoma666/External-Attention-pytorch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xmu-xiaoma666&repo=External-Attention-pytorch&theme=tokyonight&show_icons=true" />
+<a href="https://github.com/wangqingyu985/Stereo_Matching">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqingyu985&repo=Stereo_Matching&theme=tokyonight&show_icons=true" />
 </a>
 
 <a href="https://github.com/xmu-xiaoma666/FightingCV-Paper-Reading">
