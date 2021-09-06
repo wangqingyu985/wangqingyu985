@@ -13,7 +13,7 @@
 
 - **💬 WeChat: WQY17761705016 QQ: 120153710**
 
-- 🙋 [<img alt="roblack | Twitter" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />][twitter]**: wqy985 <img alt="roblack | Instagram" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />: wangqingyu52 <img alt="roblack | Instagram" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409943.svg" />: 王清玉**
+- **🙋 <img alt="roblack | Twitter" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg" />: wqy985 <img alt="roblack | Instagram" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />: wangqingyu52 <img alt="roblack | Instagram" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409943.svg" />: 王清玉**
 
 - **👀 [![Blog Badge](https://img.shields.io/badge/zhihu-王清玉-blue)](https://www.zhihu.com/people/wqy-20-44) [![Blog Badge](https://img.shields.io/badge/CSDN-WQY980618-red)](https://blog.csdn.net/qq_38436082?spm=1010.2135.3001.5343) [![Blog Badge](https://img.shields.io/badge/bilibili-bili%5f183915820-pink)](https://space.bilibili.com/183915820) [![Blog Badge](https://img.shields.io/badge/weibo-WQY985-yellow)](https://weibo.com/7082106592/profile?rightmod=1&wvr=6&mod=personinfo)**
 
