@@ -37,9 +37,9 @@
 
 ## 🛠Languages and Tools I Use
 
-- <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
-
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
+
+- <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 
 - <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/git.svg" />  **Git**
 
@@ -57,13 +57,10 @@
 
   <table width="100%"> 
     <tr>
-      <td width="40%">
-        <img src="https://github-readme-stats.vercel.app/api?username=wangqingyu985&show_icons=true&theme=algolia">
-      </td>
-      <td width="30%">
+      <td width="50%">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wangqingyu985&layout=compact&langs_count=8&theme=algolia">
       </td>
-      <td width="30%">
+      <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wangqingyu985&amp;langs_count=8&amp;theme=algolia">
       </td>
     </tr>
@@ -73,4 +70,3 @@
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/wangqingyu985/count.svg" />
 </p>
-
