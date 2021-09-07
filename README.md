@@ -35,5 +35,42 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqingyu985&repo=SLAM&theme=tokyonight&show_icons=true" />
 </a>
 
+## 🛠Languages and Tools I Use
 
+- <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
+
+- <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
+
+- <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/git.svg" />  **Git**
+
+- <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/github.svg" />  **GitHub**
+
+- <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/pycharm.svg" /> **PyCharm**
+
+-  <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/clion.svg" />**Clion**
+
+- <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
+
+- <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
+
+- <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/overleaf.svg"/>  **LaTeX**
+
+  <table width="100%"> 
+    <tr>
+      <td width="40%">
+        <img src="https://github-readme-stats.vercel.app/api?username=wangqingyu985&show_icons=true&theme=algolia">
+      </td>
+      <td width="30%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wangqingyu985&layout=compact&langs_count=8&theme=algolia">
+      </td>
+      <td width="30%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wangqingyu985&amp;langs_count=8&amp;theme=algolia">
+      </td>
+    </tr>
+  </table>
+
+<p align="center"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/wangqingyu985/count.svg" />
+</p>
 
