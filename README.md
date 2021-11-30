@@ -27,8 +27,8 @@
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=wangqingyu985&theme=nightowl&show_icons=true" />
 </a>
 
-<a href="https://github.com/wangqingyu985/Stereo_Matching">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqingyu985&repo=Stereo_Matching&theme=tokyonight&show_icons=true" />
+<a href="https://github.com/wangqingyu985/PlantStereo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wangqingyu985&repo=PlantStereo&theme=tokyonight&show_icons=true" />
 </a>
 
 <a href="https://github.com/wangqingyu985/SLAM">
