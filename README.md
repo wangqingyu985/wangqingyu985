@@ -19,6 +19,10 @@
 
 - **📍D634, college of biosystems engineering and food science, Zhejiang University, Yuhangtang Road 866, Xihu District, Hangzhou, Zhejiang, China**
 
+- ORCID: 0000-0002-5293-2024
+
+- [Reasearch Gate](https://www.researchgate.net/profile/Qingyu-Wang-18)
+
   [![Mail Badge](https://img.shields.io/badge/-Qingyu Wang-c14438?style=flat-square&logo=Googlescholar&logoColor=brightblue&link=https://scholar.google.com.hk/citations?hl=zh-CN&user=VxPKsxQAAAAJ)](https://scholar.google.com.hk/citations?hl=zh-CN&user=VxPKsxQAAAAJ)
 
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
