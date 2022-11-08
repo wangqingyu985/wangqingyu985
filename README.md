@@ -3,7 +3,7 @@
 ## 👋Hello🙂, I am Wang Qingyu(王清玉).😄
 
 
-- **🔭 I’m currently a third-year Ph.D. candidate🎓 in [IBE Team](http://ibe.zju.edu.cn/index.html) of college of [BEFC](http://www.caefs.zju.edu.cn/english/)🚜  of [ZJU](https://www.zju.edu.cn/), supervised by Prof. [Zhou Mingchuan](https://github.com/zhoushuai123) and [Ying Yibin](https://person.zju.edu.cn/0089059), I received the B.E. degree🎓 in agricultural electrification in Nanjing Agricultural University, Nanjing, Jiangsu, China, in 2020**
+- **🔭 I’m currently a third-year Ph.D. candidate🎓 in [IBE Team](http://ibe.zju.edu.cn/index.html) of college of [BEFC](http://www.caefs.zju.edu.cn/english/)🚜  of [ZJU](https://www.zju.edu.cn/), supervised by Assistant Prof. [Zhou Mingchuan](https://github.com/zhoushuai123) and Prof. [Ying Yibin](https://person.zju.edu.cn/0089059), I received the B.E. degree🎓 in agricultural electrification in Nanjing Agricultural University, Nanjing, Jiangsu, China, in 2020**
 
 - **🌱 My current research interests include: agricultural robot🤖, stereo matching, and deep learning**
 
