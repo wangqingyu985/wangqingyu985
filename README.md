@@ -9,7 +9,7 @@
 - **📱 Phone: +86-17761705016**
 - **💬 WeChat: WQY17761705016  QQ: 120153710**
 - **👀 [![Blog Badge](https://img.shields.io/badge/zhihu-王清玉-blue)](https://www.zhihu.com/people/wqy-20-44) [![Blog Badge](https://img.shields.io/badge/CSDN-WQY980618-red)](https://blog.csdn.net/qq_38436082?spm=1010.2135.3001.5343) [![Blog Badge](https://img.shields.io/badge/bilibili-bili%5f183915820-pink)](https://space.bilibili.com/183915820) [![Blog Badge](https://img.shields.io/badge/weibo-WQY985-yellow)](https://weibo.com/7082106592/profile?rightmod=1&wvr=6&mod=personinfo)**
-- **📍Office: D634, College of Biosystems Engineering and Food Science, Zhejiang University, Yuhangtang Road 866, Xihu District, Hangzhou, Zhejiang, P.R.China**
+- **📍Lab (Office): D530, College of Biosystems Engineering and Food Science, Zhejiang University, Yuhangtang Road 866, Xihu District, Hangzhou, Zhejiang, P.R.China**
 - [ORCID: 0000-0002-5293-2024](https://orcid.org/my-orcid?orcid=0000-0002-5293-2024)
 - [Reasearch Gate](https://www.researchgate.net/profile/Qingyu-Wang-18)
 - [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=VxPKsxQAAAAJ)
