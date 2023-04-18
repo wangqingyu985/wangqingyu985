@@ -4,10 +4,8 @@
 
 
 - **🔭 I’m currently a third-year Ph.D. Candidate🎓 in [IBE Team](http://ibe.zju.edu.cn/index.html) of College of [BEFS](http://www.caefs.zju.edu.cn/caefsen/)🚜  of [ZJU](https://www.zju.edu.cn/english/). Now, I feel super lucky to be co-advised by Prof. [Yibin Ying](https://person.zju.edu.cn/en/0089059) and Assistant Prof. [Mingchuan Zhou](https://github.com/zhoushuai123). Prior to joining IBE in ZJU, I received the Bachelor's Degree🎓 in Agricultural Electrification from [Nanjing Agricultural University](http://english.njau.edu.cn/) in 2020**
-- **🌱 My current research interests include: Agricultural Robot🤖, Stereo Matching, and Deep Learning**
+- **🌱 My current research interests include: Agricultural Robot🤖, Robotic Vision and Grasping, and Deep Learning**
 - **📫 My E-mail Address:  [![Mail Badge](https://img.shields.io/badge/-12013027@zju.edu.cn-c14438?style=flat-square&logo=Gmail&logoColor=yellow&link=mailto:12013027@zju.edu.cn)](mailto:12013027@zju.edu.cn) [![Mail Badge](https://img.shields.io/badge/-120153710@qq.com-c14438?style=flat-square&logo=Gmail&logoColor=yellow&link=mailto:120153710@qq.com)](mailto:120153710@qq.com)** [![Mail Badge](https://img.shields.io/badge/-wqy980618@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=yellow&link=mailto:wqy980618@gmail.com)](mailto:wqy980618@gmail.com) 
-- **📱 Phone: +86-17761705016**
-- **💬 WeChat: WQY17761705016  QQ: 120153710**
 - **👀 [![Blog Badge](https://img.shields.io/badge/zhihu-王清玉-blue)](https://www.zhihu.com/people/wqy-20-44) [![Blog Badge](https://img.shields.io/badge/CSDN-WQY980618-red)](https://blog.csdn.net/qq_38436082?spm=1010.2135.3001.5343) [![Blog Badge](https://img.shields.io/badge/bilibili-bili%5f183915820-pink)](https://space.bilibili.com/183915820) [![Blog Badge](https://img.shields.io/badge/weibo-WQY985-yellow)](https://weibo.com/7082106592/profile?rightmod=1&wvr=6&mod=personinfo)**
 - **📍Lab (Office): D530, College of Biosystems Engineering and Food Science, Zhejiang University, Yuhangtang Road 866, Xihu District, Hangzhou, Zhejiang, P.R.China**
 - [ORCID: 0000-0002-5293-2024](https://orcid.org/my-orcid?orcid=0000-0002-5293-2024)
